@@ -36,13 +36,13 @@
 | **Student ID** | [445052500] |
 | **University Email** | [445052500@std.psau.edu.sa |
 | **GitHub Username** | [layan-445052500] |
-| **Repository Link** | [https://github.com/layan-445052500/OS-Assignment3-Layan-Shuwayi] |
+| **Repository Link** | [https://github.com/layan-445052500/OS-Assignment3-Layan-Shuwayi] | 
  
 ---
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your video link here]
+**Video Link**: [https://drive.google.com/file/d/1V6G0Y8f5vxgFaLXRrOJKNXRHdxBnQkFH/view?usp=drivesdk]
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
